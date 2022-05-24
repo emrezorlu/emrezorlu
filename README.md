@@ -1,4 +1,5 @@
-[☠️@emrezorlu.net.tr]# whoami
+## [☠️@emrezorlu.net.tr]# whoami
+
 I'm Emre, my dream is to establish a utopian technology island with a team that develops open source software. I was born in 1999 (when I was 10 years old, I was developing plug-ins for games while my friends were playing games in real life) I have 10 years of back-end experience. Creating software architecture, design patterns, architectural strategies. I have the ability to create, read and follow documentation.
 
      PHP:
